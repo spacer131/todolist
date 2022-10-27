@@ -1,0 +1,63 @@
+
+
+  body{
+   background-color: rosybrown 
+    ;
+  
+    text-align: center;
+    font-family: fantasy;
+    font-size: 200%;
+  }
+
+
+  
+
+  h1 {
+    background-color:blanchedalmond;
+    width: 50%;
+    position: relative;
+    left: 25%;
+    right: 25%;
+  }
+  
+  #h {
+    font-size: 80%;
+  }
+  
+  #envoyer {
+    font-size: 80%;
+    background-color: blanchedalmond;
+  }
+
+  .result {
+    background-color: blanchedalmond;
+    width: 50%;
+    position: relative;
+    left: 25%;
+    right: 25%;
+  }
+  p button {padding: 10px;
+    width: 12%;
+    position: absolute;
+    left: 70% ;
+     ;
+    
+  
+  }
+   .boutton1 { position: absolute;
+    background-color: blanchedalmond;
+    left: 80% ;
+   
+  
+  }
+   
+  
+  
+   .boutton2 { position: absolute;
+    background-color: blanchedalmond ;
+    left: 90%
+    ;
+    
+  
+    }
+
